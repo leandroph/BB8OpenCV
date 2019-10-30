@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='BB8OpenCV'
+include ':openCVLibrary345'
